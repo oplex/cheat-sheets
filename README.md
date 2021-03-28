@@ -3,11 +3,9 @@
 
 # Websites
 
-https://landscape.cncf.io - Great site for an overall overview of Cloud Native Technologies. Shows all tools in relation to their estimated marketcap. 
+https://landscape.cncf.io - Great site for an overall overview of devops memes and cloud native technologies. Paints the industry picture about tools for sysadmins/SRE/devops.
+
 ![20210328181453_vivaldi_xYCmoEW1jX](https://user-images.githubusercontent.com/30216139/112759037-89fece80-8ff1-11eb-93fb-a2be9c10f0b1.png)
-
-
-
 
 
 
