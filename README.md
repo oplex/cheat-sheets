@@ -1,8 +1,23 @@
-# cheat-sheets
-topcmd portal
+# cheatsheet
+
+
+# Websites
+
+https://landscape.cncf.io - Great site for an overall overview of Cloud Native Technologies. Shows all tools in relation to their estimated marketcap. 
+![20210328181453_vivaldi_xYCmoEW1jX](https://user-images.githubusercontent.com/30216139/112759037-89fece80-8ff1-11eb-93fb-a2be9c10f0b1.png)
 
 
 
+
+
+
+
+
+
+
+# TOOL SPECIFIC 
+
+# MARIADB [DB] 
 Database portal 
 mariadb cheat-sheet 
 conventions: 
