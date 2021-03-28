@@ -3,7 +3,7 @@
 
 ### Websites
 
-https://landscape.cncf.io - Great site for an overall overview of devops memes and cloud native technologies. Paints the industry picture about tools for sysadmins/SRE/devops.
+https://landscape.cncf.io - Great site for an overall overview of devops memes and cloud native technologies. Paints the industry picture for sysadmins/SRE/devops tools and companies.
 
 ![20210328181453_vivaldi_xYCmoEW1jX](https://user-images.githubusercontent.com/30216139/112759037-89fece80-8ff1-11eb-93fb-a2be9c10f0b1.png)
 
