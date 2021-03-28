@@ -1,7 +1,7 @@
 # cheatsheet
 
 
-# Websites
+### Websites
 
 https://landscape.cncf.io - Great site for an overall overview of devops memes and cloud native technologies. Paints the industry picture about tools for sysadmins/SRE/devops.
 
@@ -13,9 +13,9 @@ https://landscape.cncf.io - Great site for an overall overview of devops memes a
 
 
 
-# TOOL SPECIFIC 
+## TOOL SPECIFIC 
 
-## MARIADB [DB] 
+### MARIADB [DB] 
 Database portal 
 mariadb cheat-sheet 
 conventions: 
